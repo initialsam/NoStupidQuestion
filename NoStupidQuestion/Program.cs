@@ -10,6 +10,8 @@ namespace NoStupidQuestion
     {
         static void Main(string[] args)
         {
+            NumericLiterals.Suffix();
+            Console.ReadKey();
         }
     }
 }
