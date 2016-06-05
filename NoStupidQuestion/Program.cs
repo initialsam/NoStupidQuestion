@@ -14,6 +14,8 @@ namespace NoStupidQuestion
         static void Main(string[] args)
         {
             NumericLiterals.Suffix();
+            ValueTypeReferenceType.IsValueType();
+            ValueTypeReferenceType.IsReferenceType();
             Console.ReadKey();
         }
     }
